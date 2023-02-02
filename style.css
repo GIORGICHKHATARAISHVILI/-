@@ -1,0 +1,24 @@
+
+a{color: coral;}
+li{color: black;}
+h1{color: rgb(255,127, 80);}
+.poster {color: coral;}
+header{background-color: beige;}
+h3{font-style: oblique;}
+h4{font-size: larger;}
+.poster {font-size: larger;}
+img{width: 350px;
+;}li{display: inline;}
+ul{display: inline;}
+nav{display: inline;}
+h1,nav{justify-content: space-between;}
+footer{background-color: beige;}
+h4{color: coral;}
+h1{    border: solid black; }
+footer{    border: solid black; }
+h1{margin: 20px;}
+h1{margin-left: 10px;}
+h1{margin-right: 10px;}
+nav{    margin-left: 930px;}
+h4{margin-left: 600px;}
+li{margin-right: 7px;}
